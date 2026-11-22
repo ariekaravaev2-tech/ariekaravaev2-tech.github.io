@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Sitemap: https://ariekaravaev2-tech.github.io/sitemap.xml
 Sitemap: https://ariekaravaev2-tech.github.io/ai-models-hub/sitemap.xml
